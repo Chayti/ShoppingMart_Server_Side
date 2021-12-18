@@ -2,8 +2,8 @@
 
 ShoppingMart ----- We the team of ShoppingMart has created this website, made a beautiful, responsive UI. We focused on providing all of our products and more on user functionality with us. We always try to make you more glamourous and smart with our best ever beauty products you deserve.
 
-[Live Site](https://cargurus-ef9c6.web.app/)
-[Server](https://sheltered-peak-41800.herokuapp.com/)
+[Live Site](https://shoppingmart-796b1.web.app/)
+[Server](https://still-gorge-06383.herokuapp.com/)
 
 Important features of my site are:
 * Home page has a header (simple navbar), carousel, extra banners for website necessity, products, reviews, and footer. On the home page, the products have a maximum of 4 items. I put 4 products in a row based on my design. Each product has a relevant name, image, short description, add a buy now button. If a user clicks on the purchase or buy now button it will take the user to the purchase page.
